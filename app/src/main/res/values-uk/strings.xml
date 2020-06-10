@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block2</string>
+    <string name="textView_promt">Виберіть тварину:</string>
+    <string name="dog">Собака</string>
+    <string name="cat">Кіт</string>
+    <string name="pig">Порося</string>
+    <string name="frog">Жаба</string>
+    <string name="monkey">Мавпа</string>
+    <string name="toastMessage" >"Ви вибрали: "</string>
+</resources>
